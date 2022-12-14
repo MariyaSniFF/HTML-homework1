@@ -1,0 +1,14 @@
+.fa {
+    font-size: 30px;
+}
+.fa-brands {
+    word-break: 50px;
+}
+.fa-vk {
+    color: blue;
+    background-color: aqua;
+   }
+.fa-youtube {
+color: red;
+background-color: black;
+}
