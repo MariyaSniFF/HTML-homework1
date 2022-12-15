@@ -1,14 +1,77 @@
 .fa {
     font-size: 30px;
 }
+
 .fa-brands {
     word-break: 50px;
 }
+
 .fa-vk {
     color: blue;
     background-color: aqua;
-   }
+}
+
 .fa-youtube {
-color: red;
-background-color: black;
+    color: red;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.title {
+    color: #222222;
+    font-size: 48px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+.titles {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.pict {
+    border-radius: 10px;
+    width: 150px;
+}
+
+.field {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.push {
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.main {
+    font-family: sans-serif;
 }
